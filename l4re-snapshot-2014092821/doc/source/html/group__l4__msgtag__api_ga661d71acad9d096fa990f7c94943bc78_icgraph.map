@@ -1,0 +1,6 @@
+<map id="l4_msgtag" name="l4_msgtag">
+<area shape="rect" id="node3" href="$group__api__calls__fiasco.html#ga62cd4adfb0915e034d528472c73ad270" title="Return the offset of the entry in the GDT. " alt="" coords="137,5,279,51"/>
+<area shape="rect" id="node5" href="$group__api__calls__fiasco.html#ga889e52253474f768149a012b94fac148" title="Set GDT segment descriptors. " alt="" coords="155,75,261,104"/>
+<area shape="rect" id="node7" href="$group__api__calls__fiasco.html#ga0e3c6381db5aa3b08701591a5cf30d33" title="Set LDT segments descriptors. " alt="" coords="157,128,259,157"/>
+<area shape="rect" id="node9" href="$group__l4__thread__api.html#ga5e47131f486f920826b5f72dad82bafe" title="Yield current time slice. " alt="" coords="153,181,263,211"/>
+</map>

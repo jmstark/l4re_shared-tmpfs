@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['bitmap_20graphics_20and_20fonts',['Bitmap graphics and fonts',['../group__api__gfxbitmap.html',1,'']]],
+  ['b',['b',['../structl4util__idt__desc__t.html#a198fbbaa0273fb49764b5fbf230f3544',1,'l4util_idt_desc_t::b()'],['../structl4util__idt__desc__t.html#ae4168d1dfafe639e025ffdbd7f67c73c',1,'l4util_idt_desc_t::b()']]],
+  ['base',['base',['../structl4util__idt__header__t.html#ae533a93f37a7124014bc908098db1e64',1,'l4util_idt_header_t']]],
+  ['base64_5fdecode',['base64_decode',['../group__l4util__internal.html#ga89593b11708b497e42962f1195516f21',1,'base64.h']]],
+  ['base64_5fencode',['base64_encode',['../group__l4util__internal.html#ga235eed2060bdba9e8f5c831499385795',1,'base64.h']]],
+  ['bdr',['bdr',['../structl4__buf__regs__t.html#a852ae37fbb64d4a2f71cbd4c0ba905d1',1,'l4_buf_regs_t']]],
+  ['begin',['begin',['../classcxx_1_1Bits_1_1Bst.html#a1a4affd053159de48f3a2cc7e288e5aa',1,'cxx::Bits::Bst::begin() const '],['../classcxx_1_1Bits_1_1Bst.html#aa2444fdc6b235de383e59622717c4e75',1,'cxx::Bits::Bst::begin()']]],
+  ['binary',['binary',['../structl4re__aux__t.html#a45f2869ee8915970e1c8164ed8df1335',1,'l4re_aux_t']]],
+  ['boot_5fdevice',['boot_device',['../structl4util__mb__info__t.html#a9663a06b8471fb3fff0267b75af9299b',1,'l4util_mb_info_t']]],
+  ['boot_5floader_5fname',['boot_loader_name',['../structl4util__mb__info__t.html#acd4895885e05382a686dc2cb29ba2cc2',1,'l4util_mb_info_t']]],
+  ['bp',['bp',['../structl4__vcpu__regs__t.html#a4fe5cfd1c0f65372ca52287e625f0653',1,'l4_vcpu_regs_t']]],
+  ['br',['br',['../structl4__buf__regs__t.html#a716f3f2090e6d861415e3386bfa3037d',1,'l4_buf_regs_t']]],
+  ['bst',['Bst',['../classcxx_1_1Bits_1_1Bst.html#a294013d2f4e5b4ae4b95fe0dfbc1341a',1,'cxx::Bits::Bst']]],
+  ['bst',['Bst',['../classcxx_1_1Bits_1_1Bst.html',1,'cxx::Bits']]],
+  ['bst_5fnode',['Bst_node',['../classcxx_1_1Bits_1_1Bst__node.html',1,'cxx::Bits']]],
+  ['bst_5fnode',['Bst_node',['../classcxx_1_1Bits_1_1Bst__node.html#acbc0d6ac6bb5694d4d1896e2a0bdb795',1,'cxx::Bits::Bst_node::Bst_node()'],['../classcxx_1_1Bits_1_1Bst__node.html#abf3666457b088ed65dbb2345ff954cba',1,'cxx::Bits::Bst_node::Bst_node(bool)']]],
+  ['buffer_5findex',['buffer_index',['../structl4re__video__view__info__t.html#a204da6671466974b5a4666f14ec73db7',1,'l4re_video_view_info_t']]],
+  ['buffer_5foffset',['buffer_offset',['../structl4re__video__view__info__t.html#a987278ec75cf273f37f707d28bfe3140',1,'l4re_video_view_info_t']]],
+  ['bx',['bx',['../structl4__vcpu__regs__t.html#a99391c7f92f1a71e0c17a09517c7c3d7',1,'l4_vcpu_regs_t']]],
+  ['bytes_5fper_5fline',['bytes_per_line',['../structl4re__video__view__info__t.html#aa906ba6dbfb61e9205b8d64f201189dc',1,'l4re_video_view_info_t']]],
+  ['bytes_5fper_5fpixel',['bytes_per_pixel',['../structl4re__video__pixel__info__t.html#ac8962f6db74e8f4dffed910582ad8392',1,'l4re_video_pixel_info_t']]],
+  ['base_20api',['Base API',['../group__l4__api.html',1,'']]],
+  ['buffer_20registers_20_28brs_29',['Buffer Registers (BRs)',['../group__l4__utcb__br__api.html',1,'']]],
+  ['basic_20macros',['Basic Macros',['../group__l4sys__defines.html',1,'']]],
+  ['bit_20manipulation',['Bit Manipulation',['../group__l4util__bitops.html',1,'']]]
+];
